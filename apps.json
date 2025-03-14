@@ -1,0 +1,33 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+{
+      "id": "dstorepro",
+      "title": "DStore Pro",
+      "iconUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7yxfyJQ_C3tlIPRVir-5csCTFrvVA4J84Ew&s",
+      "manifestUrl": "https://github.com/webosbrew/youtube-webos/releases/download/v0.3.6/youtube.leanback.v4.manifest.json",
+      "manifest": {
+        "id": "dstorepro",
+        "version": "webOS 5.5",
+        "type": "web",
+        "title": "DStore Pro",
+        "iconUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7yxfyJQ_C3tlIPRVir-5csCTFrvVA4J84Ew&s",
+        "sourceUrl": "https://github.com/webosbrew/youtube-webos",
+        "rootRequired": false,
+        "ipkUrl": "http://dstore5.ydns.eu/ipk/dstorepro.ipk",
+        "ipkHash": {
+          "sha256": "b24a9ca6c4f74358bc1179bd0f3f6da329c9fcb4118cce406316629eaf8d9fd4"
+        },
+        "ipkSize": 363816
+      },
+      "pool": "main",
+      "shortDescription": null,
+      "fullDescriptionUrl": "apps/youtube.leanback.v4/full_description.html"
+    }
+  ]
+}
