@@ -10,7 +10,7 @@
       "id": "dstorepro",
       "title": "DStore Pro",
       "iconUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7yxfyJQ_C3tlIPRVir-5csCTFrvVA4J84Ew&s",
-      "manifestUrl": "https://github.com/webosbrew/youtube-webos/releases/download/v0.3.6/youtube.leanback.v4.manifest.json",
+      "manifestUrl": "https://raw.githubusercontent.com/AloGitman/webosapps/refs/heads/main/man.json",
       "manifest": {
         "id": "dstorepro",
         "version": "webOS 5.5",
